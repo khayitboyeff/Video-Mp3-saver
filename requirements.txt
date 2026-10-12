@@ -1,2 +1,2 @@
 aiogram>=3.13,<4.0
-yt-dlp>=2025.1.15
+yt-dlp[default]
